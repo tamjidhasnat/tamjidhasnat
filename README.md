@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamjid Hasnat</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Odoo**
 
 - 📫 How to get in touch with me **tamjid.hasnat@gmail.com**
 
