@@ -20,5 +20,5 @@
 :sparkles: **Facts you may be curious about**
 
 - 🔭 **Currently working on:** Python,Pyramid,Pydub,Segno
-- ⚡ **Getting better at:** Python, Django, Pyramid, Machine Learning,BERT
+- ⚡ **Getting better at:** Python, Django, Pyramid, Machine Learning,BERT,Odoo,Next
 - :purple_heart: **Personal Interest:** Programming, Movie, Football ⚽ 
